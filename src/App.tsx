@@ -10,7 +10,7 @@ function App() {
     <Container size="md" py="md">
       {/* Topo do site com switcher importado */}
       <Group justify="space-between" mb="md" style={{ borderBottom: '1px solid #ccc', paddingBottom: 10 }}>
-        <Title order={3}>📚 Portal do Aluno</Title>
+        <Title order={3}>Portal do Aluno</Title>
         <LanguageSwitcher />
       </Group>
 
