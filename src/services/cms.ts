@@ -36,16 +36,16 @@ const cmsMockData: Record<string, Article[]> = {
       dataPublicacao: '10 de Julho, 2026',
       tempoLeitura: '4 min',
       link: 'https://vite.dev/'
-    },
-    {
-      id: 4,
-        titulo: 'Teste de cms',
-        descricao: 'Testeeeeeeeeeeeeeeee',
-        categoria: 'Ferramentas',
-        dataPublicacao: '31 de Fevereiro, 2026',
-        tempoLeitura: '3 dias',
-        link: 'https://vite.dev/'
     }
+    // {
+    //   id: 4,
+    //     titulo: 'Teste de cms',
+    //     descricao: 'Testeeeeeeeeeeeeeeee',
+    //     categoria: 'Ferramentas',
+    //     dataPublicacao: '31 de Fevereiro, 2026',
+    //     tempoLeitura: '3 dias',
+    //     link: 'https://vite.dev/'
+    // }
   ],
   'en-US': [
     {
