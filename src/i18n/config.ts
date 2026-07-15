@@ -1,7 +1,7 @@
 import i18n from 'i18next';
 import { initReactI18next } from 'react-i18next';
 
-// Traduções declaradas diretamente aqui no arquivo de config para simplificar (sem arquivos JSON adicionais)
+// Traduções declaradas diretamente aqui no arquivo de config para simplificar 
 const resources = {
   'pt-BR': {
     translation: {

@@ -8,7 +8,6 @@ export const ArticleList = () => {
   const [artigos, setArtigos] = useState<Article[]>([]);
   const [carregando, setCarregando] = useState(true);
 
-  // Efeito simples reativo sem checagem de concorrência ou cancelamento
   useEffect(() => {
     setCarregando(true);
     fetchArticlesFromCMS(i18n.language)
